@@ -1,2 +1,2 @@
-# creatorKitFPSEspinoza8
+# CreatorKitFPSRPGEspinoza8
 Creating a repo for my FPS project
